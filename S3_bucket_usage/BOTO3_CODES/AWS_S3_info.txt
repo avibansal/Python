@@ -1,0 +1,5 @@
+AWS S3 Info
+
+This is AWS storage as a service facility
+You can store any files here, just like hard disk of your system
+You will be charged as per the use of S3
